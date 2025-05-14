@@ -7,3 +7,7 @@ Sesión 2: https://colab.research.google.com/drive/1RzCEEF8VY0HYxsF1JXZ3idC1Olwo
 Sesión 3: https://colab.research.google.com/drive/1o5BFzduIurSxfXU4PtW92ahIC-JfD1pS?usp=drive_link
 
 Sesión 4: https://colab.research.google.com/drive/1SxaouFouPOHWr7BrQ3fXdDuQfvL-5998?usp=drive_link
+
+Sesión 5: https://colab.research.google.com/drive/1n2Wz4u5Jy971MT83Zn3F809QAbDkk0Lx?usp=drive_link
+
+Sesión 6: https://colab.research.google.com/drive/1fK8SgWx43utv7uL08HhigjJvEQQuMJXq?usp=drive_link
