@@ -1,5 +1,7 @@
 # Notas_Estructuradas
 
+En la parte de arriba se muestran los notebooks para que les den un vistazo antes de abrirlo y vean que tema corresponde a cada uno. Si ya saben que van por un número de sesión específico, tal vez sea mas fácil solo clickear uno de los links de aquí abajo.
+
 Sesión 1: https://colab.research.google.com/drive/1HTN51qiUHhYAC9IlfAX6f_0_8Unm16AT?usp=drive_link
 
 Sesión 2: https://colab.research.google.com/drive/1RzCEEF8VY0HYxsF1JXZ3idC1Olwo698j?usp=drive_link
